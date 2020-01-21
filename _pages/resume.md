@@ -47,9 +47,15 @@ In this research project, we analyzed the dataset of plants and we experimented 
 <i>Links</i> : Code | <a href="https://plantvillage.psu.edu/">Dataset(PlantVillage)</a>
 </p>
 
-FaceMark | date
----------|------
-asdfksdfasdkfsa
+<table border="0" width=100%>
+  <tr>
+    <th align=left><h2>FaceMark<h2><br>Guide: Dr.Pushpendra Singh, IIITD</th>
+    <th align=right>oct,2019-Nov,2019</th>
+  </tr>
+  <tr width=100%>
+    <td>In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models</td>
+  </tr>
+</table>
 
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
