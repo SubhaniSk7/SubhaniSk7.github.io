@@ -9,16 +9,16 @@ published: true
 
 Education
 ======
-## Master of Technology in Computer Science
+### M.Tech in Computer Science and Engineering
 IIIT-Delhi, 2018-Present
 
-## B.Tech in Computer Science
+### B.Tech in Computer Science and Engineering
 Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid), Andhra Pradesh
 
-## Pre-University Course
+### Pre-University Course
 Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid), Andhra Pradesh
 
-## Secondary Education
+### Secondary Education
 KondaVeedu public School, Andhra Pradesh
 
 Skills
@@ -35,14 +35,14 @@ Work experience/Internship
 
 Projects
 ======
-* Plant Disease Detection
-* FaceMark
-* Image Dehazing
-* Image Super Resolution using GANs
-* Extracting Factual and Non-Factual data from News-Articles 
-* Breaking the CAPTCHA
-* Sentiment Analysis to classify Online Abuse
-* Employee Project Tracking Tool
+### Plant Disease Detection
+### FaceMark
+### Image Dehazing
+### Image Super Resolution using GANs
+### Extracting Factual and Non-Factual data from News-Articles 
+### Breaking the CAPTCHA
+### Sentiment Analysis to classify Online Abuse
+### Employee Project Tracking Tool
   
 Positions of Responsibility
 ======
