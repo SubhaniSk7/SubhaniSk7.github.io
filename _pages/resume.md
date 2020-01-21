@@ -46,11 +46,6 @@ Dataset: PlalntVillage image dataset (https://plantvillage.psu.edu/)<br>
 Links: Code
 </p>
 
-
-
-### Plant Disease Detection(Oct-Nov)
-Guide: Dr.Richa Singh, IIITD
-
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
 
