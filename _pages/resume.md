@@ -55,7 +55,7 @@ In this research project, we analyzed the dataset of plants and we experimented 
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description Description<br>
 <i>Dataset</i> : collected from students<br>
 <i>Links</i> : Code
 </p>
@@ -66,7 +66,7 @@ Description<br>
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description Description <br>
 <i>Dataset</i> : dataset<br>
 <i>Links</i> : Code
 </p>
@@ -77,7 +77,7 @@ Description<br>
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description<br>
 <i>Dataset</i> : dataset<br>
 <i>Links</i> : Code
 </p>
@@ -88,7 +88,7 @@ Description<br>
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description<br>
 <i>Dataset</i> : dataset<br>
 <i>Links</i> : Code
 </p>
@@ -99,7 +99,7 @@ Description<br>
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description<br>
 <i>Dataset</i> : dataset<br>
 <i>Links</i> : Code
 </p>
@@ -110,7 +110,7 @@ Description<br>
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-Description<br>
+Description Description Description Description Description Description Description<br>
 <i>Dataset</i> : dataset<br>
 <i>Links</i> : Code
 </p>
