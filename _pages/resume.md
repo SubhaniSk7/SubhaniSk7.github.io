@@ -42,7 +42,7 @@ Projects
 	<b style="font-size:20px">Plant Disease Detection</b><br>
 	Guide: Dr.Richa Singh, IIITD
 </p>
-<p style="float:right">oct,2019-Nov,2019</p><br><br><br><br>
+<p style="float:right">oct,2019-Nov,2019</p><br><br><br>
 
 <p align="justify">
 In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.<br>
