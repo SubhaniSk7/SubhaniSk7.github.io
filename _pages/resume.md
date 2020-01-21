@@ -43,7 +43,7 @@ Guide: Dr.Richa Singh, IIITD
 
 In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.
 _Dataset_ : PlalntVillage image dataset<br>
-_Links_ : Code | [Dataset(PlantVillage)](href="https://plantvillage.psu.edu/")
+_Links_ : Code | [Dataset](https://plantvillage.psu.edu/)
 
 
 
