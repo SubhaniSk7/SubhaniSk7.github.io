@@ -50,7 +50,7 @@ _Links_ : Code | [Dataset](https://plantvillage.psu.edu/)
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
 
-Description
+Description\
 Dataset:
 Links:
 
