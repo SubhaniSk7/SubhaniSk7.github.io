@@ -38,7 +38,7 @@ Worked as a backend developer and responsible for making changes in the producti
 
 Projects
 ======
-<div><div align="left">### Plant Disease Detection</div><div align="right">Oct,2019 – Nov,2019</div></div>
+<div><span align="left">### Plant Disease Detection</span><span align="right">Oct,2019 – Nov,2019</span></div>
 Guide: Dr.Richa Singh, IIITD
 
 ### FaceMark
