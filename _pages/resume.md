@@ -48,7 +48,7 @@ In this research project, we analyzed the dataset of plants and we experimented 
 </p>
 
 
-<table border="1" width=100%>
+<table border="1">
   <tr>
     <td align=left rowspan="1" width=70><h3>FaceMark</h3>Guide: Dr.Richa Singh, IIITD</td>
     <td align=right width=30>oct,2019-Nov,2019</td>
