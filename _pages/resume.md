@@ -48,6 +48,7 @@ In this research project, we analyzed the dataset of plants and we experimented 
 <i>Dataset</i> : PlalntVillage image dataset<br>
 <i>Links</i> : Code | <a href="https://plantvillage.psu.edu/">Dataset(PlantVillage)</a>
 </p>
+<br>
 
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
