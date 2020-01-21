@@ -55,25 +55,65 @@ In this research project, we analyzed the dataset of plants and we experimented 
 </p>
 <p style="float:right">oct,2019-Nov,2019</p>
 <p style="float:left;text-align:justify">
-In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.<br>
+Description<br>
 <i>Dataset</i> : collected from students<br>
 <i>Links</i> : Code
 </p>
 
-### Image Dehazing
-Guide: Dr. A.V.Subramanyam, IIITD
+<p style="float:left;margin-bottom:1px">
+	<b style="font-size:20px">Image Dehazing</b><br>
+	Guide: Dr. A.V.Subramanyam, IIITD
+</p>
+<p style="float:right">oct,2019-Nov,2019</p>
+<p style="float:left;text-align:justify">
+Description<br>
+<i>Dataset</i> : dataset<br>
+<i>Links</i> : Code
+</p>
 
-### Image Super Resolution using GANs
-Guide: Dr. Saket Anand, IIITD
+<p style="float:left;margin-bottom:1px">
+	<b style="font-size:20px">Image Super Resolution using GANs</b><br>
+	Guide: Dr. Saket Anand, IIITD
+</p>
+<p style="float:right">oct,2019-Nov,2019</p>
+<p style="float:left;text-align:justify">
+Description<br>
+<i>Dataset</i> : dataset<br>
+<i>Links</i> : Code
+</p>
 
-### Extracting Factual and Non-Factual data from News-Articles
-Guide: Dr.Tanmoy Chakraborthy, IIITD
+<p style="float:left;margin-bottom:1px">
+	<b style="font-size:20px">Extracting Factual and Non-Factual data from News-Articles</b><br>
+	Guide: Dr.Tanmoy Chakraborthy, IIITD
+</p>
+<p style="float:right">oct,2019-Nov,2019</p>
+<p style="float:left;text-align:justify">
+Description<br>
+<i>Dataset</i> : dataset<br>
+<i>Links</i> : Code
+</p>
 
-### Breaking the CAPTCHA
-Guide: Dr. Mayank Vatsa, IIITD
+<p style="float:left;margin-bottom:1px">
+	<b style="font-size:20px">Breaking the CAPTCHA</b><br>
+	Guide: Dr. Mayank Vatsa, IIITD
+</p>
+<p style="float:right">oct,2019-Nov,2019</p>
+<p style="float:left;text-align:justify">
+Description<br>
+<i>Dataset</i> : dataset<br>
+<i>Links</i> : Code
+</p>
 
-### Sentiment Analysis to classify Online Abuse
-Guide: Dr. Saket Anand, IIITD
+<p style="float:left;margin-bottom:1px">
+	<b style="font-size:20px">Sentiment Analysis to classify Online Abuse</b><br>
+	Guide: Dr. Saket Anand, IIITD
+</p>
+<p style="float:right">oct,2019-Nov,2019</p>
+<p style="float:left;text-align:justify">
+Description<br>
+<i>Dataset</i> : dataset<br>
+<i>Links</i> : Code
+</p>
 
 ### Employee Project Tracking Tool
 Guide: Pranideep Kona
