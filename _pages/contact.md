@@ -5,6 +5,6 @@ author_profile: true
 published: true
 ---
 
-**Email:** subhanissm007@gmail.com
-**LinkedIn:** www.linkedin.com/in/subhani-shaik
+**Email:** subhanissm007@gmail.com<br>
+**LinkedIn:** www.linkedin.com/in/subhani-shaik<br>
 **Twitter:** subhanissm007@gmail.com
