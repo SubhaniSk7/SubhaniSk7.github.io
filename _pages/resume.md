@@ -51,7 +51,7 @@ _Links_ : Code | [Dataset](https://plantvillage.psu.edu/)
 Guide: Dr.Pushpendra Singh, IIITD
 
 Description\
-Dataset:
+Dataset:\
 Links:
 
 ### Image Dehazing
