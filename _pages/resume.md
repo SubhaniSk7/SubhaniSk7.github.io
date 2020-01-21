@@ -38,14 +38,15 @@ Worked as a backend developer and responsible for making changes in the producti
 Projects
 ======
 
-### Plant Disease Detection\
+### Plant Disease Detection
 Guide: Dr.Richa Singh, IIITD
 
-<p style="float:left;text-align:justify">
-In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.<br>
-<i>Dataset</i> : PlalntVillage image dataset<br>
-<i>Links</i> : Code | <a href="https://plantvillage.psu.edu/">Dataset(PlantVillage)</a>
+<p align=justify>
+In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.
 </p>
+_Dataset_ : PlalntVillage image dataset<br>
+_Links_ : Code | <a href="https://plantvillage.psu.edu/">Dataset(PlantVillage)</a>
+
 
 
 ### FaceMark
