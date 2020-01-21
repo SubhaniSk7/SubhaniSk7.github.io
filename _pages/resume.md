@@ -38,29 +38,29 @@ Worked as a backend developer and responsible for making changes in the producti
 
 Projects
 ======
-### Plant Disease Detection
-Guide: 
+### Plant Disease Detection<div align="right">Oct,2019 – Nov,2019</div>
+Guide: Dr.Richa Singh, IIITD
 
 ### FaceMark
-Guide: 
+Guide: Dr.Pushpendra Singh, IIITD
 
 ### Image Dehazing
-Guide: 
+Guide: Dr. A.V.Subramanyam, IIITD
 
 ### Image Super Resolution using GANs
-Guide: 
+Guide: Dr. Saket Anand, IIITD
 
 ### Extracting Factual and Non-Factual data from News-Articles
-Guide: 
+Guide: Dr.Tanmoy Chakraborthy, IIITD
 
 ### Breaking the CAPTCHA
-Guide: 
+Guide: Dr. Mayank Vatsa, IIITD
 
 ### Sentiment Analysis to classify Online Abuse
-Guide: 
+Guide: Dr. Saket Anand, IIITD
 
 ### Employee Project Tracking Tool
-Guide: 
+Guide: Pranideep Kona
 
 
 Positions of Responsibility
