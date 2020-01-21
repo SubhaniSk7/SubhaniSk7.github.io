@@ -60,9 +60,6 @@ In this research project, we analyzed the dataset of plants and we experimented 
 <i>Links</i> : Code
 </p>
 
-### FaceMark
-Guide: Dr.Pushpendra Singh, IIITD
-
 ### Image Dehazing
 Guide: Dr. A.V.Subramanyam, IIITD
 
