@@ -38,7 +38,7 @@ Worked as a backend developer and responsible for making changes in the producti
 Projects
 ======
 
-<p style="float:left;">
+<p style="float:left;margin-bottom:0px">
 	<b style="font-size:20px">Plant Disease Detection</b><br>
 	Guide: Dr.Richa Singh, IIITD
 </p>
