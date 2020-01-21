@@ -50,7 +50,7 @@ In this research project, we analyzed the dataset of plants and we experimented 
 <table border="1" width=100%>
   <tr>
     <td align=left rowspan="1"><h3>FaceMark</h3>Guide: Dr.Richa Singh, IIITD</td>
-    <td align=right>Date</td>
+    <td align=right>oct,2019-Nov,2019</td>
   </tr>
   <tr>
     <td colspan='2'>In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.</td>
