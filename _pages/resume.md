@@ -32,7 +32,7 @@ Internships
 ======
 ### Software Developer
 Alacriti InfoSystems, Hyderabad
-Guide: Praveen Nachu, Manjari Muppaneni\
+Guide: Praveen Nachu, Manjari Muppaneni<br>
 Worked as a backend developer and responsible for making changes in the production system on a financial product for a reputed bank.
 
 
