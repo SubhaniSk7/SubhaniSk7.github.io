@@ -38,7 +38,7 @@ Worked as a backend developer and responsible for making changes in the producti
 Projects
 ======
 
-Plant Disease Detection<p align='right'>(oct-Nov)</p><br>
+Plant Disease Detection<caption align='right'>(oct-Nov)</caption><br>
 Guide: Dr.Richa Singh, IIITD<br>
 In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.
 Dataset: PlalntVillage image dataset (PlantVillage.org). |
