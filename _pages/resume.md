@@ -53,7 +53,7 @@ In this research project, we analyzed the dataset of plants and we experimented 
     <td align=right>oct,2019-Nov,2019</td>
   </tr>
   <tr>
-    <td colspan='2'>In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.</td>
+    <td colspan='2' align=justify>In this research project, we analyzed the dataset of plants and we experimented on various CNN based models like AlexNet, ResNet etc. and developed a Multi-Tasking deep learning model to detect the specific disease and compared our results with then state-of-the-art models.</td>
   </tr>
 </table>
   
