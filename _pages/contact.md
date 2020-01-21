@@ -7,4 +7,4 @@ published: true
 
 **Email:** subhanissm007@gmail.com<br>
 **LinkedIn:** www.linkedin.com/in/subhani-shaik<br>
-**Twitter:** subhanissm007@gmail.com
+**Twitter:** https://twitter.com/subhanisk007
