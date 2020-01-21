@@ -27,42 +27,42 @@ Guide: Dr.Pushpendra Singh, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Image Dehazing
 Guide: Dr. A.V.Subramanyam, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Image Super Resolution using GANs
 Guide: Dr. Saket Anand, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Extracting Factual and Non-Factual data from News-Articles
 Guide: Dr.Tanmoy Chakraborthy, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Breaking the CAPTCHA
 Guide: Dr. Mayank Vatsa, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Sentiment Analysis to classify Online Abuse
 Guide: Dr. Saket Anand, IIITD
 
 Description<br>
 Dataset:<br>
-Links:
+Links: Code | Dataset
 
 ### Employee Project Tracking Tool
 Guide: Pranideep Kona
