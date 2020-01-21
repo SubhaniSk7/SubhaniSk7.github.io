@@ -21,29 +21,48 @@ Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid), Andhra Pradesh
 ### Secondary Education
 KondaVeedu public School, Andhra Pradesh
 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Machine Learning
+* Deep Learning
 
-Work experience/Internship
+
+Internships
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  
+### Software Developer
+Alacriti InfoSystems, Hyderabad
+Guide: Praveen Nachu, Manjari Muppaneni
+Worked as a backend developer and responsible for making changes in the production system on a financial product for a reputed bank.
+
 
 Projects
 ======
 ### Plant Disease Detection
+Guide: 
+
 ### FaceMark
+Guide: 
+
 ### Image Dehazing
+Guide: 
+
 ### Image Super Resolution using GANs
-### Extracting Factual and Non-Factual data from News-Articles 
+Guide: 
+
+### Extracting Factual and Non-Factual data from News-Articles
+Guide: 
+
 ### Breaking the CAPTCHA
+Guide: 
+
 ### Sentiment Analysis to classify Online Abuse
+Guide: 
+
 ### Employee Project Tracking Tool
-  
+Guide: 
+
+
 Positions of Responsibility
 ======
 * Worked as a Mentor for freshers at Alacriti InfoSystems. (Feb,2017 - Mar, 2017)
@@ -52,6 +71,7 @@ Positions of Responsibility
 Awards and Achievements
 ======
 * Qualified Graduate Aptitude Test in Engineering (GATE) 2018 with 96 percentile.
+
 
 Interests and Hobbies
 ======
