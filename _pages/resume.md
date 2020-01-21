@@ -48,7 +48,8 @@ In this research project, we analyzed the dataset of plants and we experimented 
 </p>
 
 FaceMark | date
-asdfksdfasdkfsa||
+---------|------
+asdfksdfasdkfsa
 
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
