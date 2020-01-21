@@ -9,10 +9,17 @@ published: true
 
 Education
 ======
-* M.Tech in Computer Science, IIIT-Delhi, 2018-Present
-* B.Tech in Computer Science, Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid, Andhra Pradesh)
-* Pre-University Course, Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid, Andhra Pradesh)
-* Schooling, KondaVeedu public School(Andhra Pradesh)
+## Master of Technology in Computer Science
+IIIT-Delhi, 2018-Present
+
+## B.Tech in Computer Science
+Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid), Andhra Pradesh
+
+## Pre-University Course
+Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid), Andhra Pradesh
+
+## Secondary Education
+KondaVeedu public School, Andhra Pradesh
 
 Skills
 ======
