@@ -9,26 +9,44 @@ published: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* M.Tech in Computer Science, IIIT-Delhi, 2018-Present
+* B.Tech in Computer Science, Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid, Andhra Pradesh)
+* Pre-University Course, Rajiv Gandhi University of Knowledge Technologies(RGUKT-Nuzvid, Andhra Pradesh)
+* Schooling, KondaVeedu public School(Andhra Pradesh)
 
-Work experience/Internship
-======
-* Summer 2015: Research Assistant
-  * Github University
-  
 Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
 
-Publications
+Work experience/Internship
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2015: Research Assistant
+  * Github University
+  
+
+Projects
+======
+* Plant Disease Detection
+* FaceMark
+* Image Dehazing
+* Image Super Resolution using GANs
+* Extracting Factual and Non-Factual data from News-Articles 
+* Breaking the CAPTCHA
+* Sentiment Analysis to classify Online Abuse
+* Employee Project Tracking Tool
   
 Positions of Responsibility
 ======
-* Currently signed in to 43 different slack teams
+* Worked as a Mentor for freshers at Alacriti InfoSystems. (Feb,2017 - Mar, 2017)
+
+
+Awards and Achievements
+======
+* Qualified Graduate Aptitude Test in Engineering (GATE) 2018 with 96 percentile.
+
+Interests and Hobbies
+======
+* Reading Books
+* Playing Chess and Solving puzzles
