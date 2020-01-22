@@ -43,7 +43,7 @@ Dataset:<br>
 Links: Code | Dataset
 
 ### Integration of Data Mining techniques to identify factors involved in Cancer Therapeutics
-Capstone Project
+Capstone Project<br>
 Guide: Dr. G.P.S Raghava
 
 Description<br>
