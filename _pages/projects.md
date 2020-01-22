@@ -21,7 +21,6 @@ _Dataset_ : PlalntVillage image dataset<br>
 _Links_ : Code | [Dataset](https://plantvillage.psu.edu/)
 
 
-
 ### FaceMark
 Guide: Dr.Pushpendra Singh, IIITD
 
@@ -36,6 +35,21 @@ Description<br>
 Dataset:<br>
 Links: Code | Dataset
 
+### SVM and SVM-Ensembles for Breast Cancer Prediction
+Guide: Dr. G.P.S Raghava
+
+Description<br>
+Dataset:<br>
+Links: Code | Dataset
+
+### Integration of Data Mining techniques to identify factors involved in Cancer Therapeutics
+Capstone Project
+Guide: Dr. G.P.S Raghava
+
+Description<br>
+Dataset:<br>
+Links: Code | Dataset
+
 ### Image Super Resolution using GANs
 Guide: Dr. Saket Anand, IIITD
 
@@ -45,6 +59,13 @@ Links: Code | Dataset
 
 ### Extracting Factual and Non-Factual data from News-Articles
 Guide: Dr.Tanmoy Chakraborthy, IIITD
+
+Description<br>
+Dataset:<br>
+Links: Code | Dataset
+
+### Heart Disease Prediction
+Guide: Dr. G.P.S Raghava
 
 Description<br>
 Dataset:<br>
