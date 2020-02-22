@@ -1,0 +1,19 @@
+html {
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: 'Courier New', Courier, monospace; */
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    /* font-size: 0.8em; */
+    line-height: 1;
+}
+
+table {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    width: 100%;
+}
