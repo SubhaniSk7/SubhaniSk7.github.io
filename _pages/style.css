@@ -13,7 +13,22 @@ body {
     line-height: 1;
 }
 
+.Education>.table {
+    width: 100%;
+    border: 0px
+}
+
+.Education>.td_1 {
+    width: 60%;
+    padding: 2px;
+    border: 0px
+}
+
 table {
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     width: 100%;
+}
+
+td {
+    padding: 2px;
 }
