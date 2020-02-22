@@ -1,31 +1,46 @@
 html {
-    font-size: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    /* font-family: 'Courier New', Courier, monospace; */
-    overflow-y: scroll;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
+  font-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: 'Courier New', Courier, monospace; */
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 body {
-    margin: 0;
-    /* font-size: 0.8em; */
-    line-height: 1;
+  margin: 0;
+  /* font-size: 0.8em; */
+  line-height: 1;
 }
 
 .education>.table {
-    font-size: 100%;
-    width: 100%;
-    border: 0px
+  font-size: 100%;
+  width: 100%;
+  padding: 5px;
+  border: 0px
 }
 
-.education>.td_1 {
+
+/* .education>.td {
     width: 60%;
     padding: 2px;
     border: 0px
+} */
+
+.td_1 {
+  width: 80%;
+  padding: 5px;
+  border: 0px
 }
 
-.project>.title {
+.td_2 {
+  width: 20%;
+  padding: 5px;
+  border: 0px
+}
+
+
+/* .project>.title {
     margin-bottom: 0px;
 }
 
@@ -35,23 +50,28 @@ body {
 
 .project>.meta>.date {
     float: right;
-}
+} */
 
 .project>.table {
-    font-size: 100%;
-    width: 100%;
-    border: 0px
+  font-size: 100%;
+  width: 100%;
+  border: 10px
+}
+
+.project>.td_1 {
+  width: 60%;
+  padding: 2px;
 }
 
 .project>.table>.project_description {
-    width: 100%;
+  width: 100%;
 }
 
-table {
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+
+/* table {
     width: 100%;
 }
 
 td {
     padding: 2px;
-}
+} */
