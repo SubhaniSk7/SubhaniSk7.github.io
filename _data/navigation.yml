@@ -15,8 +15,8 @@ main:
   - title: "temp"
     url: /temp
     
-  - title: "temp"
-    url: /temp
+  - title: "cv"
+    url: /cv
     
   #- title: "Activities and Awards"
   #  url: /activities/
