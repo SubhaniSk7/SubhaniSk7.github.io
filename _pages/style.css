@@ -13,16 +13,38 @@ body {
     line-height: 1;
 }
 
-.Education>.table {
+.education>.table {
     font-size: 100%;
     width: 100%;
     border: 0px
 }
 
-.Education>.td_1 {
+.education>.td_1 {
     width: 60%;
     padding: 2px;
     border: 0px
+}
+
+.project>.title {
+    margin-bottom: 0px;
+}
+
+.project>.meta {
+    font-size: 0.8em;
+}
+
+.project>.meta>.date {
+    float: right;
+}
+
+.project>.table {
+    font-size: 100%;
+    width: 100%;
+    border: 0px
+}
+
+.project>.table>.project_description {
+    width: 100%;
 }
 
 table {
