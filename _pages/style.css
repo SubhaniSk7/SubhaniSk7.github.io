@@ -45,23 +45,27 @@ body {
 
 .project_title {
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: 0px;
 }
 
 .project_guide {
     width: 80%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: 0px;
 }
 
 .project_duration {
     width: 20%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: 0px;
     text-align: center
 }
 
 .project_description {
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: 0px;
 }
 
 
