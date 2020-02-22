@@ -21,19 +21,22 @@ body {
 .education_table {
     font-size: 100%;
     width: 100%;
-    border: 2px solid black
+    /* border: 2px solid black */
+    border: None;
 }
 
 .education_school {
     width: 80%;
     padding: 5px;
     border: 1px solid black
+    /* border: None; */
 }
 
 .education_result {
     width: 20%;
     padding: 5px;
     border: 1px solid black;
+    /* border: None; */
     text-align: center
 }
 
@@ -46,26 +49,26 @@ body {
 .project_title {
     width: 100%;
     /* border: 1px solid black; */
-    border: 0px;
+    border: None;
 }
 
 .project_guide {
     width: 80%;
     /* border: 1px solid black; */
-    border: 0px;
+    border: None;
 }
 
 .project_duration {
     width: 20%;
     /* border: 1px solid black; */
-    border: 0px;
+    border: None;
     text-align: center
 }
 
 .project_description {
     width: 100%;
     /* border: 1px solid black; */
-    border: 0px;
+    border: None;
 }
 
 
