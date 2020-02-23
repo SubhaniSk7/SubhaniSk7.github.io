@@ -47,75 +47,52 @@ body {
 .project_table {
     font-size: 100%;
     width: 100%;
-    border: 2px solid black html {
-        font-size: 100%;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        /* font-family: 'Courier New', Courier, monospace; */
-        overflow-y: scroll;
-        -webkit-text-size-adjust: 100%;
-        -ms-text-size-adjust: 100%;
-    }
-    body {
-        margin: 0;
-        line-height: 1;
-    }
-    /* .container {
+    /* border: 2px solid black; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: None
+}
+
+html {
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: 'Courier New', Courier, monospace; */
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    line-height: 1;
+}
+
+.education_table {
+    font-size: 100%;
     width: 100%;
-    margin: 0 auto;
-} */
-    .education_table {
-        font-size: 100%;
-        width: 100%;
-        /* border: 2px solid black */
-        border: None;
-    }
-    .education_school {
-        width: 80%;
-        padding: 5px;
-        border: 1px solid black
-        /* border: None; */
-    }
-    .education_result {
-        width: 20%;
-        padding: 5px;
-        border: 1px solid black;
-        /* border: None; */
-        text-align: center
-    }
-    .project_table {
-        font-size: 100%;
-        width: 100%;
-        /* border: 2px solid black; */
-        border: None
-    }
-    .project_title {
-        width: 100%;
-        /* border: 1px solid black; */
-        border: None;
-    }
-    .project_guide {
-        width: 80%;
-        /* border: 1px solid black; */
-        border: None;
-    }
-    .project_duration {
-        width: 20%;
-        /* border: 1px solid black; */
-        border: None;
-        text-align: center
-    }
-    .project_description {
-        width: 100%;
-        /* border: 1px solid black; */
-        border: None;
-    }
-    /* table {
-      width: 100%;
-  }
-  
-  td {
-      padding: 2px;
-  } */
+    /* border: 2px solid black */
+    border: None;
+}
+
+.education_school {
+    width: 80%;
+    padding: 5px;
+    border: 1px solid black
+    /* border: None; */
+}
+
+.education_result {
+    width: 20%;
+    padding: 5px;
+    border: 1px solid black;
+    /* border: None; */
+    text-align: center
+}
+
+.project_table {
+    font-size: 100%;
+    width: 100%;
+    /* border: 2px solid black; */
+    border: None
 }
 
 .project_title {
@@ -143,6 +120,42 @@ body {
     border: None;
 }
 
+
+/* table {
+      width: 100%;
+  }
+  
+  td {
+      padding: 2px;
+  } */
+
+
+}
+.project_title {
+    width: 100%;
+    /* border: 1px solid black; */
+    
+    border: None;
+}
+.project_guide {
+    width: 80%;
+    /* border: 1px solid black; */
+    
+    border: None;
+}
+.project_duration {
+    width: 20%;
+    /* border: 1px solid black; */
+    
+    border: None;
+    text-align: center
+}
+.project_description {
+    width: 100%;
+    /* border: 1px solid black; */
+    
+    border: None;
+}
 
 /* table {
       width: 100%;
