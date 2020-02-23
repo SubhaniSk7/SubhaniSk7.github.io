@@ -60,6 +60,7 @@ body {
 
 .project_title {
     width: 100%;
+    font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 1px solid black; */
     border: None;
@@ -69,6 +70,7 @@ body {
 .project_guide {
     width: 80%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
     /* border: 1px solid black; */
     border: None;
     border-collapse: collapse;
