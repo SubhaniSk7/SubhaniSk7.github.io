@@ -127,3 +127,7 @@ body {
 li {
     margin-top: 7px;
 }
+
+td {
+    border: None;
+}
