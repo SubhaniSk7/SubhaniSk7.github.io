@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 2;
     line-height: 1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -110,18 +110,18 @@ body {
 .minor_project_td {
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: None;
     border-collapse: collapse;
-    /* border: None; */
     padding-top: 5px;
 }
 
 .minor_project_name {
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    border: None;
     border-collapse: collapse;
-    /* border: None; */
 }
 
 li {
