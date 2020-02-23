@@ -131,3 +131,29 @@ li {
 td {
     border: None;
 }
+
+.position_of_responsibility_table {
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border: None; */
+}
+
+.responsibility {
+    width: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border: None; */
+}
+
+.responsibility_duration {
+    width: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border: None; */
+    text-align: center
+}
