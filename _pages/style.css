@@ -193,3 +193,8 @@ td {
     border-collapse: collapse;
     padding-top: 2px;
 }
+
+ul {
+    margin: 0;
+    /*   padding:0 */
+}
