@@ -46,14 +46,16 @@ body {
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 2px solid black; */
-    border: None
+    border: None;
+    border-collapse: collapse;
 }
 
 .project_table {
     font-size: 100%;
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: None
+    border: None;
+    border-collapse: collapse;
 }
 
 .project_title {
@@ -61,6 +63,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 1px solid black; */
     border: None;
+    border-collapse: collapse;
 }
 
 .project_guide {
@@ -68,6 +71,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 1px solid black; */
     border: None;
+    border-collapse: collapse;
 }
 
 .project_duration {
@@ -75,7 +79,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 1px solid black; */
     border: None;
-    text-align: center
+    text-align: center;
+    border-collapse: collapse;
 }
 
 .project_description {
@@ -83,4 +88,42 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     /* border: 1px solid black; */
     border: None;
+    border-collapse: collapse;
+}
+
+.minor_project_table {
+    font-size: 100%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: None;
+    border-collapse: collapse;
+}
+
+.minor_project_title {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 1px solid black; */
+    border: None;
+    border-collapse: collapse;
+}
+
+.minor_project_td {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border: None; */
+    padding-top: 5px;
+}
+
+.minor_project_name {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* border: None; */
+}
+
+li {
+    margin-top: 7px;
 }
