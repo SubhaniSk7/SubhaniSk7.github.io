@@ -1,6 +1,6 @@
 ---
-title: Resume
-permalink: /temp/
+title: Active Work
+permalink: /active/
 author_profile: true
 published: true
 ---
