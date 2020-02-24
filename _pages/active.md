@@ -76,7 +76,7 @@ Templates:
 9. Transfer Learning
 	- ConvNets
 10. Plotting
-		- Loss
-		- Accuracry
+	- Loss
+	- Accuracry
 11. Others
-		- Imputation techniques: sklearn.experimental, sklearn.impute
+	- Imputation techniques: sklearn.experimental, sklearn.impute
