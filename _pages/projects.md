@@ -4,15 +4,6 @@ permalink: /projects/
 author_profile: true
 published: true
 ---
-
-# Current
-
-### Project 1
-
-
-
-# Past
-
 ### Plant Disease Detection
 Guide: Dr.Richa Singh, IIITD
 
