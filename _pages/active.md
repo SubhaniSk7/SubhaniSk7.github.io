@@ -19,7 +19,7 @@ working
 
 Templates:
 
-[1] Reading file types and imshow
+1. Reading file types and imshow
 	- Image: png,jpg,h5, pgm, ppm
 	- Text
 	- Audio
@@ -75,8 +75,8 @@ Templates:
 	- T-SNE
 9. Transfer Learning
 	- ConvNets
-10.Plotting
-	- Loss
-	- Accuracry
-11.Others
-	- Imputation techniques: sklearn.experimental, sklearn.impute
+10. Plotting
+		- Loss
+		- Accuracry
+11. Others
+		- Imputation techniques: sklearn.experimental, sklearn.impute
