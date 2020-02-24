@@ -7,7 +7,7 @@ published: true
 
 {% include base_path %}
 
-## Current Projects
+## __Current Projects__
 ### Traffic Light Detection
 Working on traffic light object detection.
 
