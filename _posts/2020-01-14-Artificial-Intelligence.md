@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence
 date: {}
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2020/01/artificial-intelligence/
 tags:
   - cool posts
   - category1
