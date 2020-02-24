@@ -8,15 +8,15 @@ main:
     
   - title: "Active"
     url: /active
-    
-  - title: "Resume"
-    url: /resume
+   
+  - title: "CV"
+    url: /cv
     
   - title: "Contact"
     url: /contact
     
-  - title: "cv"
-    url: /cv
+  - title: "Resume"
+    url: /resume
     
   #- title: "Activities and Awards"
   #  url: /activities/
