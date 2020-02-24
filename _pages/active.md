@@ -18,67 +18,67 @@ working
 
 
 Templates ToDo:
-1. Reading file types and imshow
-	- Image: png,jpg,h5, pgm, ppm
-	- Text
-	- Audio
-	- Video
+1.Reading file types and imshow
+	-Image: png,jpg,h5, pgm, ppm
+	-Text
+	-Audio
+	-Video
 2. Dataset Loading
-	- pytorch custom dataset
+	-pytorch custom dataset
 3. Pre-Processing
-	- Image
-	- Text
-	- Audio
-	- Video
+	-Image
+	-Text
+	-Audio
+	-Video
 4. Feature Selection
-	- Dimensionality Reduction
+	-Dimensionality Reduction
 		- PCA
 		- SVD
 		- LDA
-	- chi-2
-	- f1-classifi
+	-chi-2
+	-f1-classifi
 5. Models
-	- with GridSearchCV
+	-with GridSearchCV
 6. Architectures
-	- CNN
+	-CNN
 		- Vanilla
 		- other variants- Nets
-	- RNN
+	-RNN
 		- Vanilla
 		- other variants
-	- LSTM
+	-LSTM
 		- Vanilla
 		- other variants
-	- GRU
+	-GRU
 		- Vanilla
-	- AE
+	-AE
 		- Vanilla
 		- other variants
-	- VAE
+	-VAE
 		- Vanilla
-	- GAN
+	-GAN
 		- Vanilla
 		- other variants
 7. Evaluation Metrics
-	- Accuracy
-	- Precision
-	- Recall
-	- Specificity
-	- F1-score
-	- MCC
-	- NMS
-	- PSNR
+	-Accuracy
+	-Precision
+	-Recall
+	-Specificity
+	-F1-score
+	-MCC
+	-NMS
+	-PSNR
 8. Visualization
-	- Features
-	- Gradients
-	- T-SNE
-9. Transfer Learning/Domain Adaption
-	- ConvNets
+	-Features
+	-Gradients
+	-T-SNE
+9. Transfer Learning
+	-ConvNets
 10.Plotting
-	- Loss
-	- Accuracry
+	-Loss
+	-Accuracry
 11.Others
-	- Imputation techniques- sklearn.experimental, sklearn.impute
+	-Imputation techniques- sklearn.experimental, sklearn.impute
 
 
 
