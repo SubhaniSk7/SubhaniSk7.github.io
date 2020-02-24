@@ -7,18 +7,16 @@ published: true
 
 {% include base_path %}
 
-Current Projects
-
-## Traffic Light Detection
+## Current Projects
+### Traffic Light Detection
 Working on traffic light object detection.
 
-## Image Captioning
+### Image Captioning
 working
 
 -----------------------------------------------------------------------------------
 
-Templates:
-
+## Templates:
 1. Reading file types and imshow
 	- Image: png,jpg,h5, pgm, ppm
 	- Text
