@@ -72,8 +72,8 @@ Templates ToDo:
 	- Features
 	- Gradients
 	- T-SNE
-9. Transfer Learning
-	- 
+9. Transfer Learning/Domain Adaption
+	- ConvNets
 10.Plotting
 	- Loss
 	- Accuracry
