@@ -18,6 +18,7 @@ working
 -----------------------------------------------------------------------------------
 
 Templates:
+
 1.Reading file types and imshow
 	- Image: png,jpg,h5, pgm, ppm
 	- Text
@@ -79,8 +80,3 @@ Templates:
 	- Accuracry
 11.Others
 	- Imputation techniques: sklearn.experimental, sklearn.impute
-
-
-
-
-
