@@ -19,7 +19,7 @@ working
 
 Templates:
 
-1.Reading file types and imshow
+[1] Reading file types and imshow
 	- Image: png,jpg,h5, pgm, ppm
 	- Text
 	- Audio
