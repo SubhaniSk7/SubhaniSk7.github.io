@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Subhani Shaik"
-  avatar           : "profile.png"
+  avatar           : "subhani.jpg" # "profile.png"
   bio              : "M.Tech student at IIITD | Machine learning, Deep learning, Computer Vision, NLP"
   location         : 
   employer         :
