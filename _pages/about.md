@@ -1,5 +1,5 @@
 ---
-title: About
+title: SUBHANI SHAIK
 permalink: /
 redirect_from:
   - /about/
