@@ -14,7 +14,5 @@ Working on traffic light object detection.
 ### Image Segmentation
 working
 
-### Image Captioning
-working
 
 -----------------------------------------------------------------------------------
