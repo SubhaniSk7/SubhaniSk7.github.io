@@ -37,6 +37,7 @@ Dataset:<br>
 Links: Code | Dataset
 
 ### Extracting Factual and Non-Factual data from News-Articles
+Developed an extractive model that retrieves factual statements from the news-articles containing factual and non-factual statements like the author’s opinions, predictions, and inferences from facts etc. using Learning techniques. Achieved F1 ~ 95%.
 Dataset:<br>
 Links: Code | Dataset
 
